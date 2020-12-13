@@ -5,4 +5,4 @@
 3. Fix bug: entering a letter causes a crash
 4. DONE: Display score after every turn
 5. DONE: more ghosts when score is higher
-6. high score stored on disk
+6. DONE high score stored on disk
